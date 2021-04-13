@@ -1,6 +1,8 @@
 ## Hello Git and GitHub members
 *This repository will contain quirky snippets which can make coding and analytics easy and fun*
 
+![GitHub repo size](https://img.shields.io/github/repo-size/chinmoy07-an/git-practice?style=plastic) ![GitHub language count](https://img.shields.io/github/languages/count/chinmoy07-an/git-practice?style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/chinmoy07-an/git-practice?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/chinmoy07-an/git-practice?color=red&style=plastic)
+
 **Must to know GIT commands**
 
 1. **To check your Git configuration**
